@@ -26,6 +26,7 @@ This repo stores the code of the pipeline of classical 2D U-Net baseline. The de
 
 如对您有帮助, 可如下引用本repo:
 
+```
 @misc{2d_unet_baseline,
   author = {CuiBo},
   title = {2D_UNet_SamePadding_Baseline},
@@ -34,3 +35,4 @@ This repo stores the code of the pipeline of classical 2D U-Net baseline. The de
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/PoTsui99/2D_UNet_SamePadding_Baseline}},
 }
+```
