@@ -7,6 +7,7 @@ This repo stores the code of the pipeline of classical 2D U-Net baseline. The de
 首先从[BraTS-2018官方网页](https://ipp.cbica.upenn.edu/#BraTS18eval_trainingPhase)中下载数据集并进行解压.
 
 然后将数据集放入项目文件中, 文件目录如下:
+
 + 2D_UNet_SampePadding_Baseline
     + Code
     + dataset
@@ -14,7 +15,8 @@ This repo stores the code of the pipeline of classical 2D U-Net baseline. The de
             + HGG
             + LGG
             + survival_data.csv
-    
+    + models
+
 ## 运行Demo
 1. 运行preprocessing.py(请确保BraTS-2018数据集在正确路径上).
 2. 训练: cd到Code目录, 执行命令, 如`python ./train.py --epochs 10`
