@@ -28,11 +28,11 @@ This repo stores the code of the pipeline of classical 2D U-Net baseline. The de
 
 ```
 @misc{2d_unet_baseline,
-  author = {CuiBo},
-  title = {2D_UNet_SamePadding_Baseline},
-  year = {2022},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/PoTsui99/2D_UNet_SamePadding_Baseline}},
+    author = {CuiBo},
+    title = {2D_UNet_SamePadding_Baseline},
+    year = {2022},
+    publisher = {GitHub},
+    journal = {GitHub repository},
+    howpublished = {\url{https://github.com/PoTsui99/2D_UNet_SamePadding_Baseline}},
 }
 ```
