@@ -4,7 +4,7 @@ This repo stores the code of the pipeline of classical 2D U-Net baseline. The de
 本DEMO在BraTS-2018数据集(训练集)上运行
 
 ## 准备工作
-首先从[BraTS-2018官方网页](https://ipp.cbica.upenn.edu/#BraTS18eval_trainingPhase) 中下载数据集并进行解压.
+首先从[BraTS-2018官方网页](https://ipp.cbica.upenn.edu/#BraTS18eval_trainingPhase)中下载数据集并进行解压.
 
 然后将数据集放入项目文件中, 文件目录如下:
 + 2D_UNet_SampePadding_Baseline
