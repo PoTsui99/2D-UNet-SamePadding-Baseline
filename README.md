@@ -1,7 +1,7 @@
 # 2D_UNet_SamePadding_Baseline
 This repo stores the code of the pipeline of classical 2D U-Net baseline. The demo is run on the BraTS-2018 dataset.
 
-本demo在BraTS-2018数据集(训练集)上运行.如需使用其它数据集, 需自行修改输入输出channel、数据集路径、数据预处理等.
+本demo在BraTS-2018数据集(训练集)上运行. 如需使用其它数据集, 需自行修改输入输出channel、数据集路径、数据预处理等.
 
 ## 准备工作
 首先从[BraTS-2018官方网页](https://ipp.cbica.upenn.edu/#BraTS18eval_trainingPhase)中下载数据集并进行解压.
