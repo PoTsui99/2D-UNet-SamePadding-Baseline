@@ -18,8 +18,8 @@ This repo stores the code of the pipeline of classical 2D U-Net baseline. The de
     + models
 
 ## 运行Demo
-1. 运行preprocessing.py(请确保BraTS-2018数据集在正确路径上), 将会在`2D_UNet_SampePadding_Baseline/Code/`下生成`./train_data_float16`、`./train_ground_truth_float16`、`./test_data`、`./test_ground_truth`四个路径.
-2. 训练: cd到Code目录, 执行命令, 如`python ./train.py --epochs 10`
-3. 测试: 执行命令, 如`python ./test.py --name BraTS-2018-UNet_1439070506901286798 --batch-size 8`
+1. 运行preprocessing.py(请确保BraTS-2018数据集在正确路径上), 将会在`Code/`下生成`./train_data_float16`、`./train_ground_truth_float16`、`./test_data`、`./test_ground_truth`四个路径.
+2. 训练: cd到`Code/``目录, 执行命令, 如`python ./train.py --epochs 10`
+3. 测试: cd到`Code/``目录, 执行命令, 如`python ./test.py --name BraTS-2018-UNet_1439070506901286798 --batch-size 8`
 
-训练及测试所有可选参数及默认值请自行查看`2D_UNet_SampePadding_Baseline/Code/argparser.py`.
+训练及测试所有可选参数及默认值请自行查看`Code/argparser.py`.
