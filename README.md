@@ -23,3 +23,14 @@ This repo stores the code of the pipeline of classical 2D U-Net baseline. The de
 3. 测试: cd到`Code/``目录, 执行命令, 如`python ./test.py --name BraTS-2018-UNet_1439070506901286798 --batch-size 8`
 
 训练及测试所有可选参数及默认值请自行查看`Code/argparser.py`.
+
+如对您有帮助, 可如下引用本repo:
+
+@misc{2d_unet_baseline,
+  author = {CuiBo},
+  title = {2D_UNet_SamePadding_Baseline},
+  year = {2022},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/PoTsui99/2D_UNet_SamePadding_Baseline}},
+}
